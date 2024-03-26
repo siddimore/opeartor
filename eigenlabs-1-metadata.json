@@ -2,6 +2,6 @@
     "name": "EigenLabs-1",
     "website": "https://docs.eigenlayer.xyz/eigenda/overview/",
     "description": "The first AVS on EigenLayer, a data availability solution for Ethereum. Restaking can enable a hyperscale Data Availability (DA) layer, with a high DA rate and low cost. EigenLabs is building the first DA layer on EigenLayer, called EigenDA.",
-    "logo": "https://holesky-operator-metadata.s3.amazonaws.com/markEigenDA.png",
+    "logo": "https://holesky-operator-metadata.s3.amazonaws.com/eigenlayer.png",
     "twitter": "https://twitter.com/eigen_da"
 }
